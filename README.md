@@ -2,7 +2,7 @@
 
 # Joshua Calma
 
-**Aspiring Software Engineer & Developer**
+**Aspiring Software Engineer & Software Developer**
 
 Building clean, reliable web and mobile experiences, from database to interface.
 
