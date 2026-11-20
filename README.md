@@ -8,9 +8,6 @@ Building clean, reliable web and mobile experiences, from database to interface.
 
 <br />
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-1f2328?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-1f2328?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <img src="https://komarev.com/ghpvc/?username=huswekaizen&label=Views&color=1f2328&style=flat-square" alt="Profile views" />
 
 </div>
